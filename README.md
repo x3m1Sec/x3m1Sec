@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h2>Hi, I’m José Miguel aka k3Pn1c</h2>
+  <h2>Hi, I’m José Miguel aka 0xD3vNu1l</h2>
 <h3> 💻 Developer 🛡️ Cybersecurity 🔴 Red Team 👨‍💻 Ethical Hacker 🔎 Pentester 📜 EJPTv2, CPHE, CPHEE </h3> 
 
 
@@ -18,7 +18,7 @@
   </a>
 </p><br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k3Pn1c&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="k3Pn1c" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xD3vNu1l&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="0xD3vNu1l" /></p><br>
 
 
 <div identificación="centro" align="center">
@@ -28,5 +28,5 @@
      
 
   <a title="Try Hack Me Profile" href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3128319">
-<img src="https://tryhackme-badges.s3.amazonaws.com/k3pn1c.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xD3vNu1l.png" alt="Your Image Badge" />
 <br>
