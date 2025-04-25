@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h2>Hi, I’m José Miguel aka 0xD3vNu1l</h2>
+  <h2>Hi, I’m José Miguel aka x3m1Sec</h2>
 <h3> 💻 Developer 🛡️ Cybersecurity 🔴 Red Team 👨‍💻 Ethical Hacker 🔎 Pentester 📜 EJPTv2, CPHE, CPHEE </h3> 
 
 
@@ -28,5 +28,5 @@
      
 
   <a title="Try Hack Me Profile" href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3128319">
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xD3vNu1l.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/x3m1Sec.png" alt="Your Image Badge" />
 <br>
