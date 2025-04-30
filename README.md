@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2>Hi, I’m José Miguel aka x3m1Sec</h2>
-<h3> 💻 Developer 🛡️ Cybersecurity 🔴 Red Team 👨‍💻 Ethical Hacker 🔎 Pentester 📜 EJPTv2, CPHE, CPHEE </h3> 
+<h3> 💻 Developer 🛡️ Cybersecurity 🔴 Red Team 👨‍💻 Pentester 📜 EJPTv2, CPHE, CPHEE </h3> 
 
 
 <div identificación="centro" align="center">
