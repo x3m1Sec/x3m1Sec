@@ -40,7 +40,7 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/x3m1Sec.png" alt="TryHackMe Badge" width="260" height="80" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackthebox.eu/profile/1239916" title="Hack The Box Profile">
+  <a href="https://app.hackthebox.com/profile/1239916" title="Hack The Box Profile">
     <img src="http://www.hackthebox.eu/badge/image/1239916" alt="Hack The Box Badge" width="260"  height="80" />
   </a>
 </p>
