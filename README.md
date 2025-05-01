@@ -35,13 +35,20 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://tryhackme.com/p/x3m1Sec" title="TryHackMe Profile">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/x3m1Sec.png" alt="TryHackMe Badge" width="260" height="80" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://app.hackthebox.com/profile/1239916" title="Hack The Box Profile">
-    <img src="http://www.hackthebox.eu/badge/image/1239916" alt="Hack The Box Badge" width="260"  height="80" />
-  </a>
-</p>
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://tryhackme-badges.s3.amazonaws.com/x3m1Sec.png" />
+    <a href="https://tryhackme.com/p/x3m1Sec" title="TryHackMe Profile">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/x3m1Sec.png" alt="TryHackMe Badge" width="260" height="70" style="max-width: 100%; height: auto;" />
+    </a>
+  </picture>
+  <br />
+  <picture>
+    <source media="(max-width: 600px)" srcset="http://www.hackthebox.eu/badge/image/1239916" />
+    <a href="https://app.hackthebox.com/profile/1239916" title="Hack The Box Profile">
+      <img src="http://www.hackthebox.eu/badge/image/1239916" alt="Hack The Box Badge" width="260" height="70" style="max-width: 100%; height: auto;" />
+    </a>
+  </picture>
+</div>
+
 
