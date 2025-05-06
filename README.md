@@ -61,8 +61,8 @@
 | Certificación        | Emisor         | Año  |
 |----------------------|----------------|------|
 | EJPTv2               | INE            | 2024 |
-| Certified CPHE       | TCM Security   | 2022 |
-| Certified CPHEE      | TCM Security   | 2021 |
+| CPHE                 | TSS            | 2022 |
+| CPHEE                | TSS            | 2021 |
 
 ---
 
