@@ -75,9 +75,6 @@ You can follow me on:
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=x3m1Sec&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="x3m1Sec" />
-</p>
 
 
 
@@ -88,7 +85,7 @@ You can follow me on:
 - 🛠️ [Pentesting Toolkit](https://github.com/x3m1Sec/crossfire): Bash-based security tool designed to scan websites for Cross-Origin Resource Sharing (CORS) misconfigurations.
 - 📖 [Cheatsheets de Ciberseguridad](https://x3m1sec.gitbook.io/notes): Pentesting resources.
 
----
+
 
 ## 🏅 Certifications
 
@@ -98,12 +95,12 @@ You can follow me on:
 | CPHE                 | TSS            | 2022 |
 | CPHEE                | TSS            | 2021 |
 
----
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=10000000&color=adabab&center=true&vCenter=true&width=435&lines=%3C+CTF+Profiles+%3E" />
-</div>
+
+
+
+## 🎯 CTF Badges
 
 <div align="center">
   <a href="https://tryhackme.com/p/x3m1Sec" title="TryHackMe Profile">
