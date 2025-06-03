@@ -16,7 +16,7 @@
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ccc, #444, #ccc);" />
 
 
-### 📬 Ping me
+## 📬 Ping me
 
 You can follow me on:
 
