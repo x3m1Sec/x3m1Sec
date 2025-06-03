@@ -1,5 +1,3 @@
-![Mi Banner](./banner.png)
-
 <div align="center">
   <h1>root@github# whoami </h1>
 </div>
