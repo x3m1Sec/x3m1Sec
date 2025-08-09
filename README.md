@@ -91,6 +91,7 @@ You can follow me on:
 
 | Certificación        | Emisor         | Año  |
 |----------------------|----------------|------|
+| CPTS                 | HTB            | 2025 |
 | EJPTv2               | INE            | 2024 |
 | CPHE                 | TSS            | 2022 |
 | CPHEE                | TSS            | 2021 |
